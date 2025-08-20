@@ -1,6 +1,8 @@
 # Wordlee
 
 A word-guessing game inspired by Wordle, built with React, TypeScript, and Vite.
+![rn-mobile](https://github.com/user-attachments/assets/f063ff0c-d5a9-43f3-a41e-af4bf7ae6c59)
+
 
 ## Game Overview
 
